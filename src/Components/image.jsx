@@ -6,7 +6,7 @@ import Myimage from '../image/my_image.jpg';
 
 const useStyles = makeStyles((theme) => ({
   set: {
-    marginLeft:'95%',
+    marginLeft:'93%',
     marginTop: '-10%',
   },
 
