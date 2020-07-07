@@ -42,7 +42,7 @@ class App extends React.Component {
           <div id={styles.containe}>
             <div id={styles.cont}>
               <div className={styles.footer_center}>
-                <h3>Developed by:<i className={styles.modname}> Zunair Ahmad <MyAvatar /></i></h3>
+                <h3>Created by:<i className={styles.modname}> Zunair Ahmad <MyAvatar /></i></h3>
 
 
               </div>
