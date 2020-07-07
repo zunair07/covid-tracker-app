@@ -63,7 +63,8 @@ const Charts = ({ data: { confirmed, recovered, deaths }, country }) => {
                         ],
                 }]
             }}
-            height='100'/>
+            height='120' />
+            
 
         ) : null
         
